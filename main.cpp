@@ -3,6 +3,7 @@
 
 #include "uploadFile.hpp"
 #include "askLLM.hpp"
+#include "callAI.h"
 
 #include <iostream>
 #include <string>
